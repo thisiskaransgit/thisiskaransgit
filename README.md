@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3 align="center">Hi 👋, I'm Karan </h3>
+<h2 align="center">Hi 👋, I'm Karan </h2>
 <h3 align="center">• I'm a 2nd year student pursuing my degree in BCA (Bachelor in Computer Application).
 
 • I'm a tech savvy guy who loves to learn and work with new and exciting technologies.
