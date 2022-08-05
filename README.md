@@ -4,7 +4,7 @@
 
 • I'm a tech savvy guy who loves to learn and work with new and exciting technologies.
 
-• I Enjoy building web apps , solving real world problems and provide significant contributions to the open source projects.</h3>
+• I like solving real world problems and provide significant contributions to the open source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskaransgit&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskaransgit" /> </p>
 
