@@ -1,10 +1,13 @@
-# 💫 About Me:
-<h2 align="center">Hi 👋, I'm Karan </h2>
-<h3 align="center">• I'm a 2nd year student pursuing my degree in BCA (Bachelor in Computer Application).
+<h1> 💫 About Me: </h1>
+<h3>Hi 👋, I'm Karan </h3>
+<h3 align="left">
+• I'm a 2nd-year student pursuing my degree in BCA (Bachelor in Computer Application).
 
-• I'm a tech savvy guy who loves to learn and work with new and exciting technologies.
+\
+• I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
 
-• I like solving real world problems and provide significant contributions to the open source projects.</h3>
+\
+• I like solving real-world problems and providing significant contributions to open source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskaransgit&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskaransgit" /> </p>
 
