@@ -1,13 +1,19 @@
 <h1> 💫 About Me: </h1>
 <h3>Hi 👋, I'm Karan </h3>
 <h3 align="left">
-• I'm a 2nd-year student pursuing my degree in BCA (Bachelor in Computer Application).
+🔸Hello folks, I'm Karan, Thakur,  a 2nd-year student pursuing my degree in BCA (Bachelor in Computer Application).
 
 \
-• I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+🔸 I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
 
 \
-• I like solving real-world problems and providing significant contributions to open source projects.
+🔸I like building web apps, solving real-world problems, and providing significant contributions to open source projects.
+
+\
+🔸 My area of interest is DevOps and Cybersecurity.
+
+\
+🔸My hobbies are Blogging and photography.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisiskaransgit&label=Profile%20views&color=0e75b6&style=flat" alt="thisiskaransgit" /> </p>
