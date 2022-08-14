@@ -19,7 +19,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karansli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/karanstwt) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white
-)](https://hashnode.com/@karanthakur)
+)](https://hashnode.com/@karanthakur) [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/karanthakur?style=social)](https://peerlist.io/karanthakur)
+
+
 
 
 # 💻 Tech Stack:
