@@ -1,7 +1,7 @@
 <h1> 💫 About Me: </h1>
 <h3>Hi 👋, I'm Karan </h3>
 <h3 align="left">
-🔸Hello folks, I'm Karan, Thakur,  a 2nd-year student pursuing my degree in BCA (Bachelor in Computer Application).
+🔸Hello folks,I am currently a 2nd-year student pursuing my degree in BCA (Bachelor in Computer Application).
 
 \
 🔸 I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
