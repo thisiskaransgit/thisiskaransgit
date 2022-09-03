@@ -1,25 +1,19 @@
 <h1> 💫 About Me: </h1>
-<h3>Hi 👋, I'm Karan </h3>
 <h3 align="left">
-🔸Hello folks,I am currently a 2nd-year student pursuing my degree in BCA (Bachelor in Computer Application).
+ 
+- Hello everyone, I'm Karan Thakur, a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
 
-\
-🔸 I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+- I have pretty good experience with **C/C++**, **Python**, and **Java** and I also enjoy working with web apps, and for that **MEVN** is my preferred tech stack for this, I love to solve real-world problems, contribute to open source projects, and add value to the projects.
 
-\
-🔸I like building web apps, solving real-world problems, and providing significant contributions to open source projects.
+- I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is** DevOps **and **Cybersecurity**. My hobbies are Blogging and photography.
 
-\
-🔸 My area of interest is DevOps and Cybersecurity.
 
-\
-🔸My hobbies are Blogging and photography.
 </h3>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karansli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/karanstwt) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white
-)](https://hashnode.com/@karanthakur) [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/karanthakur?style=social)](https://peerlist.io/karanthakur)
+)](https://hashnode.com/@karanthakur)
 
 
 
