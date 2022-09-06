@@ -1,6 +1,7 @@
 <h1> 💫 About Me: </h1>
  
  <h3>
+ 
 - Hello everyone 👋, I'm Karan Thakur, a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
 
 - I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and I also enjoy working with web apps, and for that ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to open source projects, and add value to the projects.
