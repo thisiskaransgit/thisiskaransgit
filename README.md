@@ -22,8 +22,9 @@
 <br/>
 
 # 📊 GitHub Stats:
-<a><p>
-![](https://github-readme-stats.vercel.app/api?username=thisiskaransgit&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
+<a><p align="center">
+![](https://github-readme-stats.vercel.app/api?username=thisiskaransgit&show_icons=true)
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
 </p></a>
 
