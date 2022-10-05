@@ -23,13 +23,8 @@
 
 # 📊 GitHub Stats:
 
-<a><p align="left">
-![](https://github-readme-stats.vercel.app/api?username=thisiskaransgit&show_icons=true)
-<br/>
-</p></a>
 
-
-<a><p align="right">
+<a><p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
 </p></a>
 
