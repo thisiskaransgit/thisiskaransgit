@@ -1,5 +1,5 @@
 
-<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="500">
+<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="400">
 
 <a align="right">
 - Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
@@ -35,12 +35,11 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
   -->
 
-<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="500" /></a>
- 
-![isocalendar metric](/metrics.plugin.isocalendar.svg)
- 
-</a>
+<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="400" /><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" /></a>
+
+
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=thisiskaransgit&icon=1&color=11)](https://visitcount.itsvg.in)
+
+![profile count](https://visitcount.itsvg.in/api?id=thisiskaransgit&icon=1&color=11)](https://visitcount.itsvg.in)
