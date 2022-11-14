@@ -7,6 +7,9 @@
 
 - I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is ***DevOps*** and ***Cybersecurity***. My hobbies are Blogging and photography.
 <br/>
+<p align = "center">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+</p>
 
 # 🌐 Socials:
 <a><p align="center">
