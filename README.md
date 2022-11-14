@@ -1,5 +1,5 @@
 
-<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="400">
+<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="450">
 
 <a align="right">
 - Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
@@ -35,7 +35,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
   -->
 
-<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="400" /><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" /></a>
+<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="450" /><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" /></a>
 
 
 
