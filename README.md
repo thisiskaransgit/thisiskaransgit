@@ -2,9 +2,13 @@
 <img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="450">
 
 <a>
+ 
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ 
 - Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
  
-<br>
  
 - I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and love working with web apps, ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to projects, and add value to them.
 <br>
@@ -31,7 +35,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="400" /><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" />
+<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="400"/><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" />
 </a>
 
 <br/>
