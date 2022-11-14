@@ -1,16 +1,16 @@
-<h1> 💫 About Me: </h1>
 
- <p align = "center">
-<img align="center" src="/metrics.plugin.introduction.svg" alt="Metrics" width="500">
-</p>
+<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="500">
 
- 
+<a align="right">
 - Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+<br>
 
 - I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and I also enjoy working with web apps, and for that ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to open source projects, and add value to the projects.
+<br>
 
-- I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is ***DevOps*** and ***Cybersecurity***. My hobbies are Blogging and photography.
+- I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is **DevOps** and **Cybersecurity**. My hobbies are Blogging and photography.
 <br/>
+ </a>
 
 # 🌐 Socials:
 <a><p align="center">
@@ -18,7 +18,7 @@
 )](https://hashnode.com/@karanthakur) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://bio.link/karanthakur) 
 </p></a>
 
-<img align="center" src="/metrics.plugin.devto.svg" alt="Metrics" width="600">
+<a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.devto.svg" alt="Metrics" width="600"></a>
 
 
 # 💻 Tech Stack:
@@ -31,9 +31,16 @@
 # 📊 GitHub Stats:
 
 
-<a><p align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
-</p></a>
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
+  -->
+
+<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="500" /></a>
+ 
+![isocalendar metric](/metrics.plugin.isocalendar.svg)
+ 
+</a>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=thisiskaransgit&icon=1&color=11)](https://visitcount.itsvg.in)
