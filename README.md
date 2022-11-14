@@ -1,12 +1,11 @@
 <a>
-<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="450">
+<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=45%>
 
 <a>
- 
  &nbsp;
  &nbsp;
  
-Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+<h3>Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.</h3>
  
   &nbsp;
  
