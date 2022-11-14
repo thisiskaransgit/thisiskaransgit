@@ -1,5 +1,5 @@
 <a>
-<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=45%>
+<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=50%>
 
 <a>
  &nbsp;
