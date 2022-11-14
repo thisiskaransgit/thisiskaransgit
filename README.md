@@ -7,20 +7,17 @@
  
 - Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. 
 - A tech-savvy guy who loves to learn and work with new and exciting technologies.
-- I love to solve real-world problems, contribute to projects, and add value to them.
+- love solving real-world problems, contribute to projects,& add values.
 
 <br>
  
  </a>
  
- <a>
-  
-- I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and love working with web apps, ***MEVN*** is my preferred tech stack for this, 
+- I am constantly exploring 🧐 different domains and trying to get familiar with them. 
+- I'm a Community first 🌏 guy who's always looking forward to collaborate and learn together.
+-  My area of interest is **DevOps** ♾️ and **web deveplopment** 🕸️. 
+- My hobbies are **Blogging** and **photography**.
 <br>
- 
-- I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is **DevOps** and **Cybersecurity**. My hobbies are Blogging and photography.
-<br>
- </a> </a>
 
 # 🌐 Socials:
 <a><p align="center">
