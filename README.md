@@ -1,16 +1,17 @@
-
+<a>
 <img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width="450">
 
-<a align="right">
+<a>
 - Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+ 
 <br>
-
-- I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and I also enjoy working with web apps, and for that ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to open source projects, and add value to the projects.
+ 
+- I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and love working with web apps, ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to projects, and add value to them.
 <br>
-
+ 
 - I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is **DevOps** and **Cybersecurity**. My hobbies are Blogging and photography.
-<br/>
- </a>
+<br> 
+ </a> </a>
 
 # 🌐 Socials:
 <a><p align="center">
@@ -30,16 +31,15 @@
 
 # 📊 GitHub Stats:
 
+<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="450" /><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="450" />
+</a>
+
+<br/>
+
+<p><a align="center"
+----
 
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskaransgit&theme=prussian&hide_border=true)<br/>
-  -->
-
-<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="450" /><img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" /></a>
-
-
-
----
-
-
-![profile count](https://visitcount.itsvg.in/api?id=thisiskaransgit&icon=1&color=11)](https://visitcount.itsvg.in)
+[![profile count](https://visitcount.itsvg.in/api?id=thisiskaransgit&icon=1&color=11)](https://visitcount.itsvg.in)
+      
+ </a></p>
