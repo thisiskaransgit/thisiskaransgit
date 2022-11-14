@@ -12,16 +12,6 @@ jobs:
     steps:         
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          
-      - uses: lowlighter/metrics@latest
-        with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -89,15 +79,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.people.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_people: yes
-          plugin_people_limit: 100
-          plugin_people_size: 25
-          plugin_people_types: followers, following
           
       - uses: lowlighter/metrics@latest
         with:
@@ -128,4 +109,13 @@ jobs:
           user: thisiskaransgit
           base: header
           plugin_introduction: yes
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.starlists.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 2
+          
 
