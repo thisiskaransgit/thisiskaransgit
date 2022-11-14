@@ -3,7 +3,6 @@
 
 <a>
  &nbsp;
- &nbsp;
  
 <h3>Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.</h3>
  
