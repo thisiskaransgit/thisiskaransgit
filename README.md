@@ -1,21 +1,25 @@
 <h1> 💫 About Me: </h1>
+
+ <p align = "center">
+<img align="center" src="/metrics.plugin.introduction.svg" alt="Metrics" width="500">
+</p>
+
  
- 
-- Hello everyone 👋, I'm Karan Thakur, a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
+- Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.
 
 - I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and I also enjoy working with web apps, and for that ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to open source projects, and add value to the projects.
 
 - I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is ***DevOps*** and ***Cybersecurity***. My hobbies are Blogging and photography.
 <br/>
-<p align = "center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-</p>
 
 # 🌐 Socials:
 <a><p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karansli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/karanstwt) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 )](https://hashnode.com/@karanthakur) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://bio.link/karanthakur) 
 </p></a>
+
+<img align="center" src="/metrics.plugin.devto.svg" alt="Metrics" width="600">
+
 
 # 💻 Tech Stack:
 <a><p align="center">
