@@ -1,3 +1,5 @@
+![Karan Singh thakur](https://user-images.githubusercontent.com/92504666/201768779-11f533fd-44e8-40b0-88b6-5337b85cd44d.gif)
+
 <p>
 <img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=50%>
  <a width="50%">
