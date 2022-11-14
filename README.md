@@ -2,15 +2,24 @@
 <img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=50%>
 
 <a>
-<h3>Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. I'm a tech-savvy guy who loves to learn and work with new and exciting technologies.</h3>
+ <br>
  
-  &nbsp;
  
-- I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and love working with web apps, ***MEVN*** is my preferred tech stack for this, I love to solve real-world problems, contribute to projects, and add value to them.
+- Hello everyone 👋, I'm a 2nd-year student pursuing my bachelor's in computer application. 
+- A tech-savvy guy who loves to learn and work with new and exciting technologies.
+- I love to solve real-world problems, contribute to projects, and add value to them.
+
+<br>
+ 
+ </a>
+ 
+ <a>
+  
+- I have pretty good experience with ***C/C++***, ***Python***, and ***Java*** and love working with web apps, ***MEVN*** is my preferred tech stack for this, 
 <br>
  
 - I am constantly exploring different domains and trying to get familiar with them. I'm a Community first guy who's always looking forward to collaborating and learning together. My area of interest is **DevOps** and **Cybersecurity**. My hobbies are Blogging and photography.
-<br> 
+<br>
  </a> </a>
 
 # 🌐 Socials:
