@@ -12,27 +12,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    steps:    
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 21
-          plugin_habits_from: 500
-          config_timezone: America/Los_Angeles
-          
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.introduction.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          
+    steps:                      
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
