@@ -27,7 +27,7 @@
 )](https://hashnode.com/@karanthakur) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://bio.link/karanthakur) 
 </p></a>
 
-<a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.devto.svg" alt="Metrics" width="600"></a>
+<a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.posts.full.svg" alt="Metrics" width="600"></a>
 
 
 # 💻 Tech Stack:
