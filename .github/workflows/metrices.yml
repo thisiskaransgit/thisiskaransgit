@@ -28,12 +28,12 @@ jobs:
           
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.devto.svg
+          filename: metrics.plugin.posts.full.svg
           token: NOT_NEEDED
           base: ""
           plugin_posts: yes
-          plugin_posts_limit: 5
           plugin_posts_source: hashnode.com
           plugin_posts_user: karanthakur
+          plugin_posts_limit: 2
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
