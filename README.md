@@ -14,11 +14,18 @@
  
  
  </a>
+<p>
  
+<img align ="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="ocotocat" width=50%> 
+ 
+ <a width="50%">
+  
 - I am constantly exploring 🧐 different domains and trying to get familiar with them. 
 - I'm a Community first 🌏 guy who's always looking forward to collaborate and learn together.
 -  My area of interest is **DevOps** ♾️ and **web deveplopment** 🕸️. 
 - My hobbies are **Blogging** and **photography**.
+  
+ </a>
 <br>
 
 # 🌐 Socials:
