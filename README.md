@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=jolly" alt="Karan" width="400"/>
+<a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html&theme=transparent" alt="Karan" width="400"/>
  
  <img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" />
  
