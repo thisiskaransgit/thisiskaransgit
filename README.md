@@ -46,6 +46,22 @@
 
 # 📊 GitHub Stats:
 
+ <details>
+  <summary> <b>Notable Contributions</b> </summary>
+  
+
+  - Added a webpage in Moja-global's community website https://github.com/moja-global/community-website/pull/372
+
+  - Added Darkmode in meshery play https://github.com/meshery/play/pull/32
+
+  - Added PWA in IHR website https://github.com/InternetHealthReport/ihr-website/pull/142
+
+  - Added downloading the report functionality https://github.com/InternetHealthReport/ihr-website/pull/186
+
+
+  
+ </details>
+
 <a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html%&bg_color=30,00ff53,088773&title_color=fff&text_color=black" alt="Karan" width="400"/>
  
  <img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" />
