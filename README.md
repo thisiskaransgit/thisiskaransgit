@@ -46,7 +46,7 @@
 
 # 📊 GitHub Stats:
 
- <details>
+<!--  <details>
   <summary> <b>Notable Contributions</b> </summary>
   
 
@@ -56,7 +56,7 @@
 
   - Added PWA in IHR website https://github.com/InternetHealthReport/ihr-website/pull/142
 
-  - Added downloading the report functionality https://github.com/InternetHealthReport/ihr-website/pull/186
+  - Added downloading the report functionality https://github.com/InternetHealthReport/ihr-website/pull/186 -->
 
 
   
