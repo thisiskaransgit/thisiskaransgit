@@ -46,19 +46,28 @@
 
 # 📊 GitHub Stats:
 
-<!--  <details>
+<details>
   <summary> <b>Notable Contributions</b> </summary>
   
+- Successfully contributed code to multiple large open-source projects, adding value by implementing new features and fixing bugs.
+- Guided newcomers by helping them get started with the project journey. Provided guidance on technical aspects such as setting up the development environment, version control systems (VCS), testing frameworks etc.
+Contributed towards keeping documentation updated which helped onboard new contributors more easily.
+- Rewrote documentation sections that were difficult to understand, resulting in improved clarity and ease of use for all community members.
+- By contributing both code contributions along with mentorship efforts and documentation updates, I have demonstrated my ability to be an effective team player who can work collaboratively towards achieving common goals.
 
-  - Added a webpage in Moja-global's community website https://github.com/moja-global/community-website/pull/372
+Notable Contributions : 
+<a>
+1. [Moja-Global](https://github.com/moja-global/) is a not for profit, collaborative project that brings together a community of experts to develop open-source software that allows users to accurately and affordably estimate greenhouse gas emissions and removals from the AFOLU sector. The project’s members aim to support the widest possible use of credible emissions estimation software.
 
-  - Added Darkmode in meshery play https://github.com/meshery/play/pull/32
+ - [Contributions](https://github.com/pulls?q=+is%3Apr+author%3Athisiskaransgit+archived%3Afalse+user%3Amoja-global) 
+ - Tech Stack: Vuejs, JavaScript, Sphinx, React, Docker
 
-  - Added PWA in IHR website https://github.com/InternetHealthReport/ihr-website/pull/142
+2. [Internet Health Report](https://github.com/InternetHealthReport/) monitors the conditions of networks that compose the Internet. This effort aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution.
 
-  - Added downloading the report functionality https://github.com/InternetHealthReport/ihr-website/pull/186 -->
+ - [Contributions](https://github.com/pulls?q=is%3Apr+author%3Athisiskaransgit+archived%3Afalse+user%3Ainternethealthreport) 
+ - Tech Stack:  Vuejs, JavaScript, CI/CD, Docker
 
-
+ </a>
   
  </details>
 
