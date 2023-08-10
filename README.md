@@ -42,9 +42,9 @@
 <p align="center">Layer5 badges are one of the many ways that the community recognize the efforts of  contributors and uplift users. Layer5 badges represent milestones that you achieve both in using and in contributing to Layer5-supported open source projects. As a contributor, this is how you demonstrate your ownership, dedication, skills, and loyalty to Layer5. As a user, this is how you demonstrate your prowess.
 </p>
 <div display="flex"; align="center">
- <a href= "https://meshery.layer5.io/user/a550f4d6-d3bd-44f1-9b4c-167114452062?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
- <a href= "https://meshery.layer5.io/user/090e7114-509a-4046-81f1-9c5fb8daf724?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery-docs/meshery-docs.svg" alt = "GitOps with Friends" /></a >
-<a href= "https://meshery.layer5.io/user/a550f4d6-d3bd-44f1-9b4c-167114452062?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/landscape/landscape.svg" alt = "Meshery" /></a >
+ <a href= "https://meshery.layer5.io/user/a550f4d6-d3bd-44f1-9b4c-167114452062?tab=badges"><img width="150px" height="224px"  src = "https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" /></a >
+ <a href= "https://meshery.layer5.io/user/090e7114-509a-4046-81f1-9c5fb8daf724?tab=badges"><img width="150x" height="224px" src = "https://badges.layer5.io/assets/badges/meshery-docs/meshery-docs.png" alt = "GitOps with Friends" /></a >
+<a href= "https://meshery.layer5.io/user/a550f4d6-d3bd-44f1-9b4c-167114452062?tab=badges"><img width="150px" height="224px" src = "https://badges.layer5.io/assets/badges/landscape/landscape.png" alt = "Meshery" /></a >
  
 </div>
 
