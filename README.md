@@ -9,12 +9,12 @@
 - love solving real-world problems, contributing to projects, & add value.
  </a>
 <p>
+ 
  <br>
- 
- 
- 
- </a>
+</p>
+
 <p>
+
  
 <img align ="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="ocotocat" width=50%> 
  
@@ -35,7 +35,18 @@
 </p></a>
 
 <a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.posts.full.svg" alt="Metrics" width="600"></a>
+<h3 align="center"> My Layer5 Badges </h3>
 
+<p align="center"><i>My layer5 community member <a href="https://layer5.io/community/members/karan-thakur">profile</a> and Layer5 Cloud <a href="https://meshery.layer5.io/user/1215325e-3bd2-453b-b15d-bb01519c080e">profile</a></i></p>
+<br/>
+<p align="center">Layer5 badges are one of the many ways that the community recognize the efforts of  contributors and uplift users. Layer5 badges represent milestones that you achieve both in using and in contributing to Layer5-supported open source projects. As a contributor, this is how you demonstrate your ownership, dedication, skills, and loyalty to Layer5. As a user, this is how you demonstrate your prowess.
+</p>
+<div display="flex"; align="center">
+ <a href= "https://meshery.layer5.io/user/a550f4d6-d3bd-44f1-9b4c-167114452062?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery/meshery.svg" alt = "Meshery" /></a >
+ <a href= "https://meshery.layer5.io/user/090e7114-509a-4046-81f1-9c5fb8daf724?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/meshery-docs/meshery-docs.svg" alt = "GitOps with Friends" /></a >
+<a href= "https://meshery.layer5.io/user/a550f4d6-d3bd-44f1-9b4c-167114452062?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/landscape/landscape.svg" alt = "Meshery" /></a >
+ 
+</div>
 
 # 💻 Tech Stack:
 <a><p align="center">
