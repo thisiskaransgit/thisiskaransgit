@@ -35,7 +35,11 @@
 </p></a>
 
 <a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.posts.full.svg" alt="Metrics" width="600"></a>
-<h3 align="center"> My Layer5 Badges </h3>
+
+<h3 align="center"> My Layer<img src="https://github.com/thisiskaransgit/thisiskaransgit/assets/92504666/835caafa-9a5c-4226-b77c-e0f26b457c1f" width="2%"/> Badges
+ </h3>
+
+----
 
 <p align="center"><i>My layer5 community member <a href="https://layer5.io/community/members/karan-thakur">profile</a> and Layer5 Cloud <a href="https://meshery.layer5.io/user/1215325e-3bd2-453b-b15d-bb01519c080e">profile</a></i></p>
 <br/>
