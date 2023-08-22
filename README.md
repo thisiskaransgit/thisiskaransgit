@@ -35,7 +35,7 @@
 </p></a>
 
 <a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.posts.full.svg" alt="Metrics" width="600"></a>
-
+<!---
 <h3 align="center"> My Layer<img src="https://github.com/thisiskaransgit/thisiskaransgit/assets/92504666/835caafa-9a5c-4226-b77c-e0f26b457c1f" width="2%"/> Badges
  </h3>
 
@@ -49,7 +49,7 @@
  <a href= "https://meshery.layer5.io/user/1215325e-3bd2-453b-b15d-bb01519c080e"><img width="150px" height="224px"  src = "https://badges.layer5.io/assets/badges/meshery/meshery.png" alt = "Meshery" /></a >
  <a href= "https://meshery.layer5.io/user/1215325e-3bd2-453b-b15d-bb01519c080e"><img width="150x" height="224px" src = "https://badges.layer5.io/assets/badges/meshery-docs/meshery-docs.png" alt = "GitOps with Friends" /></a >
 <a href= "https://meshery.layer5.io/user/1215325e-3bd2-453b-b15d-bb01519c080e"><img width="150px" height="224px" src = "https://badges.layer5.io/assets/badges/landscape/landscape.png" alt = "Meshery" /></a >
- 
+ --->
 </div>
 
 # 💻 Tech Stack:
