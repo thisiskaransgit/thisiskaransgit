@@ -83,7 +83,7 @@ Notable Contributions :
  - Tech Stack:  Vuejs, JavaScript, CI/CD, Docker
 3. [Layer5](https://layer5.io) is a non-profit organization that is dedicated to advancing the adoption of service meshes, cloud-native application architectures, and related technologies.
 
-- Role: [Community Member](https://layer5.io/community/handbook/recognition#Membership)
+- Role: [Community Member](https://layer5.io/community/members/karan-thakur)
 
 - [Contributions](https://github.com/issues?q=is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+mentions%3Athisiskaransgit)
  </a>
