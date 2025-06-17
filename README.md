@@ -33,8 +33,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karansli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/karanstwt) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 )](https://hashnode.com/@karanthakur) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://bio.link/karanthakur) 
 </p></a>
-
+<!---
 <a href="https://karanthakur.hashnode.dev/"><img align="center" src="/metrics.plugin.posts.full.svg" alt="Metrics" width="600"></a>
+--->
+
 <!---
 <h3 align="center"> My Layer<img src="https://github.com/thisiskaransgit/thisiskaransgit/assets/92504666/835caafa-9a5c-4226-b77c-e0f26b457c1f" width="2%"/> Badges
  </h3>
