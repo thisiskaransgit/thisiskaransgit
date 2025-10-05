@@ -103,7 +103,6 @@ Notable Contributions :
 <p><a align="center"
 ----
 
-
-[![profile count](https://visitcount.itsvg.in/api?id=thisiskaransgit&icon=1&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=thisiskaransgit&color=green&style=flat-square)
       
  </a></p>
