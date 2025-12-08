@@ -67,19 +67,19 @@
   <summary> <b>Notable Contributions</b> </summary>
   
 - Successfully contributed code to multiple large open-source projects, adding value by implementing new features and fixing bugs.
-- Guided newcomers by helping them get started with the project journey. Provided guidance on technical aspects such as setting up the development environment, version control systems (VCS), testing frameworks etc.
-Contributed towards keeping documentation updated which helped onboard new contributors more easily.
+- Guided newcomers by helping them get started with the project journey. Provided guidance on technical aspects such as setting up the development environment, version control systems (VCS), testing frameworks, etc.
+Contributed towards keeping documentation updated, which helped onboard new contributors more easily.
 - Rewrote documentation sections that were difficult to understand, resulting in improved clarity and ease of use for all community members.
-- By contributing both code contributions along with mentorship efforts and documentation updates, I have demonstrated my ability to be an effective team player who can work collaboratively towards achieving common goals.
+- By contributing both code contributions and mentorship efforts, with documentation updates, I have demonstrated my ability to be an effective team player who can work collaboratively towards achieving common goals.
 
 Notable Contributions : 
 <a>
-1. [Moja-Global](https://github.com/moja-global/) is a not for profit, collaborative project that brings together a community of experts to develop open-source software that allows users to accurately and affordably estimate greenhouse gas emissions and removals from the AFOLU sector. The project’s members aim to support the widest possible use of credible emissions estimation software.
+1. [Moja-Global](https://github.com/moja-global/) is a not-for-profit, collaborative project that brings together a community of experts to develop open-source software that allows users to accurately and affordably estimate greenhouse gas emissions and removals from the AFOLU sector. The project’s members aim to support the widest possible use of credible emissions estimation software.
 
  - [Contributions](https://github.com/pulls?q=+is%3Apr+author%3Athisiskaransgit+archived%3Afalse+user%3Amoja-global) 
  - Tech Stack: Vuejs, JavaScript, Sphinx, React, Docker
 
-2. [Internet Health Report](https://github.com/InternetHealthReport/) monitors the conditions of networks that compose the Internet. This effort aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution.
+2. [Internet Health Report](https://github.com/InternetHealthReport/) monitors the conditions of networks that compose the Internet. This effort aims to provide network operators, policymakers, and other stakeholders with a better understanding of the Internet's infrastructure and its evolution.
 
  - [Contributions](https://github.com/pulls?q=is%3Apr+author%3Athisiskaransgit+archived%3Afalse+user%3Ainternethealthreport) 
  - Tech Stack:  Vuejs, JavaScript, CI/CD, Docker
@@ -91,10 +91,11 @@ Notable Contributions :
  </a>
   
  </details>
-
+<!--
 <a href="https://github.com/thisiskaransgit"><img align="left" src="https://github-readme-stats.vercel.app/api?username=thisiskaransgit&layout=compact&hide=html%&bg_color=30,00ff53,088773&title_color=fff&text_color=black" alt="Karan" width="400"/>
+ -->
  
- <img align="left" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" />
+ <img align="center" src="/metrics.plugin.isocalendar.svg" alt="Karan" width="400" />
  
 </a>
 
