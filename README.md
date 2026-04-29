@@ -64,7 +64,7 @@
 # 📊 GitHub Stats:
 
 <details>
-  <summary> <b>Notable Contributions</b> </summary>
+  <summary> <b>Notable Contributions (click here) </b> </summary>
   
 - Successfully contributed code to multiple large open-source projects, adding value by implementing new features and fixing bugs.
 - Guided newcomers by helping them get started with the project journey. Provided guidance on technical aspects such as setting up the development environment, version control systems (VCS), testing frameworks, etc.
