@@ -1,4 +1,4 @@
-![Karan Singh thakur](https://user-images.githubusercontent.com/92504666/201768779-11f533fd-44e8-40b0-88b6-5337b85cd44d.gif)
+<img width="1584" height="396" alt="cover-page" src="https://github.com/user-attachments/assets/174ff716-9883-457a-8fbd-441280f43b19" />
 
 <p>
 <img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=50%>
