@@ -1,8 +1,8 @@
 <img width="1584" height="396" alt="cover-page" src="https://github.com/user-attachments/assets/174ff716-9883-457a-8fbd-441280f43b19" />
 
 <p>
-<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=50%>
- <a width="50%">
+<img align="left" src="/metrics.plugin.introduction.svg" alt="Metrics" width=40%>
+ <a width="60%">
   
 - Hello everyone 👋, I'm a first-year student pursuing my master's in computer applications. 
 - A tech-savvy guy who loves to learn and work with new and exciting technologies.
